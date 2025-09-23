@@ -75,4 +75,4 @@ Want me to:
 * write the one-line formula for the polynomial kernel (very simple)?
 
 
-![Polynomial-kernel SVM](relative/path/in/repository/to/image.svg)
+![Polynomial-kernel SVM](https://github.com/KishoreRam-M/Machine-Learing/blob/53ab5b755f507e73b695a159d69e13c6072469ea/SVM/Kernals/Gemini_Generated_Image_pnbw6vpnbw6vpnbw.png)
