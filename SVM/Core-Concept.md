@@ -53,3 +53,5 @@
 * **Hard Margin** = strict, perfect separation, rare in practice.
 * **Soft Margin** = flexible, robust, realistic for noisy datasets, widely used in real applications.
 
+![Hard vs Soft Margin SVM]()
+
